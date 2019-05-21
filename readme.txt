@@ -18,3 +18,8 @@ Geo blocking content plugin allows you to set a content blackout for a specific 
 1. Add plugin and Active as a classic plugin
 2. Go to post or page and select the city to block in the list
 3. Save you post
+
+== To Do Features ==
+1. Add auto fill city name
+2. Allow admin to add ray around the city to block
+3. Add API key field
